@@ -1,0 +1,29 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  min-height: 90vh;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+body {
+  font-size: 1.3rem;
+}
+
+.flex {
+  display: flex;
+  gap: 5px;
+}
+
+.des {
+  background-color: cornflowerblue;
+  padding: 10px;
+}
+
+.tit {
+  background-color: cadetblue;
+  padding: 10px;
+}
